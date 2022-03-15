@@ -23,4 +23,4 @@ Here's a sample of images and their corrupted counterparts:<br />
 
 
 The following is the ROC curve when 0.05 of the pixels were flipped in the corrupted images.
-![This is an image](/assets/images/ROC0.05.png)
+<img src="/assets/images/ROC0.05.png" alt="drawing" width="500"/>
