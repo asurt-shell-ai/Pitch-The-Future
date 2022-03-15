@@ -5,7 +5,7 @@ n_bits: 1
 # Model Parameters
 model: "Glow"
 use_cuda: True
-save_model_path: "./trained/Glow/shapes.pth" # If null, the model is not saved
+save_model_path: "./trained/glow/shapes.pth" # If null, the model is not saved
 
 # Custom Model Parameters (you add them as you need, all other parameters in this file must be added)
 n_blocks: 8 # depricated (for now)
