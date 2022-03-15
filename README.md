@@ -17,8 +17,8 @@ Models can also be easily added, see instructions in main.py
 ## Model tests
 The models are tested for their ability to classify anomalies.
 By flipping a percentage of the 1-bit pixels in images of shapes , the model should be able to classify these images as corrupted.
-Here's a sample of images and their corrupted counterparts:
-![This is an image](/assets/images/original.png)
+Here's a sample of images and their corrupted counterparts:<br />
+![This is an image](/assets/images/original.png)<br />
 ![This is an image](/assets/images/corrupted.png)
 
 
